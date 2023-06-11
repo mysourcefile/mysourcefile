@@ -15,6 +15,11 @@
   </a> -->
  
 <br>
+ 
+ ## 🛠 Tech Stack 🛠
+<div style="display:flex; flex-direction:row;">
+
+</div><br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
