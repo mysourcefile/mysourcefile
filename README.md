@@ -1,13 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Welcome%20to%20Taehyeon's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-<p align='center'> Welcome to 태현's Github </p>
-<p align='center'>
-  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
-    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-  <a href="#demo">
-    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+TaeHyeon's+GitHub!👋)](https://git.io/typing-svg)
+ 
+<div align="left">
 
 <!--
 **mysourcefile/mysourcefile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
