@@ -16,6 +16,12 @@
  
 <br>
  
+ ## 📞 Introduction 📞
+<div style="display:flex; flex-direction:row;">
+ <p>안녕하세요 제 이름은 안태현입니다! 프론트엔드 개발자 지망생입니다</p><br>
+ <p>현재 react에 대해서 공부하고 있으며, 사용자에게 보다 편한 화면을 보여주는 것이 목표입니다</p><br>
+</div><br>
+ 
  ## 🛠 Tech Stack 🛠
 <div style="display:flex; flex-direction:row;">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
